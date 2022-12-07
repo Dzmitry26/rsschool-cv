@@ -12,7 +12,7 @@
 
 **Discord**:Dzmitry26(@nimble_dz)
 
-## About me
+## About me:
 ***
  I want to be a javascript developer, I want to learn and develop new skills
 ## Code example:
